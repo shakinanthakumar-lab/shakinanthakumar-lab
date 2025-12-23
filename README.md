@@ -66,6 +66,7 @@
 ---
 
 ## 🌱 Currently Focusing On
+- improve web development Knowledge
 - Strengthening Java fundamentals  
 - Applying IT concepts in academic projects  
 - Improving problem-solving skills  
