@@ -2,8 +2,8 @@
 
 # Hi 👋, I'm Shagiththika Nanthakumar
 
-### Undergraduate | Management & Information Technology  
-### University of Kelaniya, Sri Lanka
+### Undergraduate Student | Management & Information Technology  
+### University of Kelaniya, Sri Lanka 🇱🇰
 
 </div>
 
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-> A motivated undergraduate learning Java and building a strong foundation in IT and Management.
+> A dedicated undergraduate building skills in Java, IT systems, and management while learning step by step.
 
 </div>
 
@@ -19,26 +19,24 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Shakinanthakumar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Shakinanthakumar&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
 ## 🎓 About Me
-- Undergraduate student following **Management & Information Technology (MIT)**  
-- Currently learning **Java** with focus on OOP concepts  
-- Interested in software development and information systems  
-- Enjoy **nature photography** as a creative hobby  
-- Focused on continuous learning and self-improvement  
-
-📧 **Email:** shagiththikananthakumar@gmail.com  
+- Undergraduate in **Management & Information Technology (MIT)**   
+- Interested in **software development** and **information systems**  
+- Enjoy **nature photography** as a creative and relaxing hobby  
+- Believe in consistent learning and self-improvement  
 
 ---
 
 ## 💻 Technical Skills
 **Programming**
-- Java (OOP, classes, objects, arrays, methods)
+- Java (OOP, Classes, Objects, Arrays, Methods)
+- C++
 
 **Web Basics**
 - HTML, CSS
@@ -46,24 +44,32 @@
 **Tools**
 - Git & GitHub  
 - VS Code  
-- MS Office  
+- MS Office
+- IntelliJ
 
 ---
 
-## 📊 GitHub Statistics
+## 🔗 Connect with Me
+- 📧 Email: **shakinanthakumar@gmail.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/shagiththika-nanthakumar-9b2253350**
+
+---
+
+## 📊 GitHub Overview
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shakinanthakumar&show_icons=true&theme=dark" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakinanthakumar&layout=compact&theme=dark" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=shakinanthakumar-lab&show_icons=true&theme=dark" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakinanthakumar-lab&layout=compact&theme=dark" />
 
 </div>
 
 ---
 
-## 🌱 Current Focus
-- Improving Java programming skills  
-- Understanding real-world applications of IT & management  
-- Building academic and personal projects  
+## 🌱 Currently Focusing On
+- Strengthening Java fundamentals  
+- Applying IT concepts in academic projects  
+- Improving problem-solving skills  
+- Balancing technology with management knowledge  
 
 ---
 
